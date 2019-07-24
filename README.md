@@ -1,0 +1,2 @@
+# mydatabank
+To learn mysql 
